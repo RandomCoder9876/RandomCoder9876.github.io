@@ -41,8 +41,8 @@ Listat voi olla myös numeroituja
 
 ### Jatketaan testailua
 Nakkilistankin teko on mahdollista.
-- [x] Luo sivu
-- [ ] Keitä kahvit
+- [x]  Luo sivu
+- [ ]  Keitä kahvit
 
 Kokeillaan tehdä vielä taulukko
 
@@ -51,12 +51,13 @@ Kokeillaan tehdä vielä taulukko
 | Kahvi | Juo lämpimänä|
 | Pulla | Syö kahvin kanssa |
 
-Hommahan alkaa olla pulkassa :+1: :tada:[^1]
+Hommahan alkaa olla pulkassa :thumbsup:
+[^1]
 
 [^1]: Selityksen paikka
 
 > [!TIP]
 > Muista aina levätä
 
-> [!WARNING]
-> Varo kuitenkin varaa
+>[!WARNING]
+>Varo kuitenkin varaa
