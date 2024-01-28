@@ -53,11 +53,8 @@ Kokeillaan tehdä vielä taulukko
 
 Hommahan alkaa olla pulkassa [^1]
 :thumbsup:
+:smile:
 
 [^1]: Selityksen paikka
 
-> [!TIP]
-> Muista aina levätä
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
