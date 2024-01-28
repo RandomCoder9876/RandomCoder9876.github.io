@@ -55,6 +55,10 @@ Hommahan alkaa olla pulkassa [^1]
 
 👍
 
+
+> [!WARNING]
+> Muista kuitenkin varoa vaaraa.
+
 [^1]: Lopputeksti
 
 
