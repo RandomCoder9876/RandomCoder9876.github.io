@@ -51,13 +51,13 @@ Kokeillaan tehdä vielä taulukko
 | Kahvi | Juo lämpimänä|
 | Pulla | Syö kahvin kanssa |
 
-Hommahan alkaa olla pulkassa :thumbsup:
-[^1]
+Hommahan alkaa olla pulkassa [^1]
+:thumbsup:
 
 [^1]: Selityksen paikka
 
 > [!TIP]
 > Muista aina levätä
 
->[!WARNING]
->Varo kuitenkin varaa
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
