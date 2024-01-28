@@ -52,9 +52,10 @@ Kokeillaan tehdä vielä taulukko
 | Pulla | Syö kahvin kanssa |
 
 Hommahan alkaa olla pulkassa [^1]
-:thumbsup:
-:smile:
 
-[^1]: Selityksen paikka
+👍
+
+[^1]: Lopputeksti
+
 
 
